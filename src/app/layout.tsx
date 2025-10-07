@@ -17,7 +17,7 @@ const playfairDisplay = Playfair_Display({
 export const metadata: Metadata = {
   title: "MemePulse Memecoin — Fun Landing with Easy Buy Steps",
   description: "MemePulse is the playful memecoin landing with simple buy steps, clear tokenomics, and a community-first vibe. Explore, learn, and join the fun.",
-  keywords: ["memecoin","meme","crypto","buy memecoin","tokenomics","community","fun","playful","landing","crypto-education","memeproject"],
+  keywords: ["memecoin", "meme", "crypto", "buy memecoin", "tokenomics", "community", "fun", "playful", "landing", "crypto-education", "memeproject"],
   alternates: { canonical: "/" },
   openGraph: {
     type: "website",
