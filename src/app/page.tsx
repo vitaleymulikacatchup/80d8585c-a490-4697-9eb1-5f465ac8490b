@@ -20,7 +20,6 @@ export default function Home() {
           navItems={[{ name: "Hero", id: "hero" }, { name: "About", id: "about" }, { name: "How to Buy", id: "how-to-buy" }, { name: "Tokenomics", id: "tokenomics" }, { name: "Footer", id: "footer" }]}
           buttonText="Buy MemePulse"
           onButtonClick={() => {}}
-          sticky
         />
       </div>
       <div id="hero" data-section="hero">
